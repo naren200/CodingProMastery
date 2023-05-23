@@ -7,6 +7,6 @@ Starting as a begineer with a proper logic knowledge of how coding works. But, h
 Gain knowledge of all required concepts. Master in completion of any given task with timely completion, considering constrained Time and Space Complexity. 
 
 #### Getting Started
-[Max Consecutive Ones](https://classroom.udacity.com/courses/ud777)
+[Max Consecutive Ones](https://classroom.udacity.com/courses/ud777)  -> [Solution](Arrays/maxConsecutiveOnes.cpp)
 
 
