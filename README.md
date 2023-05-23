@@ -8,5 +8,6 @@ Gain knowledge of all required concepts. Master in completion of any given task 
 
 #### Getting Started
 [Max Consecutive Ones](https://classroom.udacity.com/courses/ud777)  -> [Solution](Arrays/maxConsecutiveOnes.cpp)
+[Find Numbers with Even Number of Digits](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/)  -> [Solution](Arrays/FindEvenNumberDigits.cpp)
 
 
