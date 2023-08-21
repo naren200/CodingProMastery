@@ -11,3 +11,4 @@
 
 [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/) -> [Approach1](DuplicateZeros.cpp)
 
+[Merge Sorted Array](https://leetcode.com/explore/featured/card/fun-with-arrays/525/inserting-items-into-an-array/3253/) -> [Approach1](MergeSortedArray.cpp)
