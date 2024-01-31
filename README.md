@@ -9,4 +9,6 @@ Gain knowledge of all required concepts. Master in completion of any given task 
 #### Journey
 [Arrays](Arrays/README.md)
 
+[LeetCode 75 Problems](LeetCode75/README.md)
+
 
