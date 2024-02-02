@@ -15,3 +15,9 @@
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution](productarrayexceptself.py)
 
 [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) -> [Method which didn't work - Revisit Flag](increasingtripletsubsequence.py) & [Solution](increasingtripletsubsequence1.py)
+
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution](movezeros.py)
+
+[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution](issubsequence.py)
+
+[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=leetcode-75) -> [Method which didn't work - Revisit Flag](containerwithmostwater.py) [Solution](containerwithmostwater1.py)
