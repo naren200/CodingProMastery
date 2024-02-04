@@ -27,3 +27,10 @@
 [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution](maxnumvowelsstring.py) -> [Using Set, Reduced runtime by half](maxnumvowelsstring1.py)
 
 [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution](maxconsecutiveonesIII.py) -> [Simple logic Reduced code  by 1/4th](maxconsecutiveonesIII1.py)
+
+[1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution](findthehighestaltitude.py) 
+
+[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution](findpivotindex.py) 
+
+[2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution](finddifferencetwoarrays.py) -> [Shorter and effective code](finddifferencetwoarrays1.py)
+
