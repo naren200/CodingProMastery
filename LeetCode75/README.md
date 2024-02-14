@@ -34,3 +34,6 @@
 
 [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution](finddifferencetwoarrays.py) -> [Shorter and effective code](finddifferencetwoarrays1.py)
 
+
+[1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75) -> [Solution1](uniquenumberofoccurence.py) [Solutions_usingHashMap](uniquenumberofoccurence1.py)
+
